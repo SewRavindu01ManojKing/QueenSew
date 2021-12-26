@@ -12,7 +12,7 @@
         "LANGUAGE": {
             "description": "Enter the language you want (EN or SI), ඔබට අවශ්‍ය භාෂාව ඇතුලත් කරන්න.. (EN හො SI)",
             "required": true,
-            "value": "en"
+            "value": "si"
         },
         "S_DOWN_SONG": {
             "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
