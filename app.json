@@ -12,7 +12,7 @@
         "LANGUAGE": {
             "description": "Enter the language you want (EN or SI), ඔබට අවශ්‍ය භාෂාව ඇතුලත් කරන්න.. (EN හො SI)",
             "required": true,
-            "value": "en"
+            "value": "si"
         },
         "S_DOWN_SONG": {
             "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
@@ -47,7 +47,7 @@
         "ANTI_LINK": {
             "description": "If someone inserts a link into the group and wants to remove him from the group, enter true..සමූහයට කෙනෙකු ලින්ක් එකක් ඇතුලත් කලහොත් ඔහුව ගෲපයෙන් නෙරපා දැමීමට අවශ්‍ය නම් true ලෙස ඇතුලත් කරන්න",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "INBO_BLOCK": {
             "description": "INBOX BLOCKING SYSTEM.. ඉන්බොක්ස් බ්ලොක් කිරීමේ පද්දතිය.. eg true/all or true/cmd or false",
@@ -57,7 +57,7 @@
         "SPAM_CMD": {
             "description": "Changeble Spam CMD... ස්පෑම් සදහා ඌ විදානය ලබා දෙන්න",
             "required": true,
-            "value": "hunt"
+            "value": "true"
         },
         "BAD_KICK": {
             "description": "BAD WORD &  GROUP LINK KICKING SYSTEM.. අසබ්‍ය වචන හා ගෲප් ලින්ක් දමන්නන් ඉවත් කිරීමේ පද්දතිය",
@@ -89,19 +89,19 @@
             "value": "2290891d3a7b4fdfc2abffceb5a3bc92"
          },
           "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==> https://youtu.be/AKU7YVXxMbM",
+            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර (shana)යොදන්න.password required..",
             "required": true
          },
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
             "required": false,
-            "value": "RAVINDU MANOJ"
+            "value": "CHAMOD KESHAN"
         },
         
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW ✬"
+            "value": "✬ MR SEW ✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
@@ -154,7 +154,7 @@
         "DEBUG": {
             "description": "Geliştiricilere özeldir.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Get API Key. https://remove.bg",
